@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="google-site-verification" content="-eNbbWqulfJUWbKt6c0qN_HI_tiGRuwMed8uTKp3KnY" />
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
